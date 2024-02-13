@@ -8,7 +8,7 @@ Admin Account :
 
 email : admin@mail.com
 
-password: password
+password: karawang123
 
 
 Tools:
@@ -20,5 +20,6 @@ Tools:
 - Summernote
 - Sweetalert2
 - Codeigniter Ion Auth
+- PHP ver 7.4
 
 ![alt text](https://github.com/tegarpratama/school-website/blob/master/capture.png?raw=true) 
