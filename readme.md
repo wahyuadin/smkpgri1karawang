@@ -8,7 +8,7 @@ Admin Account :
 
 email : admin@mail.com
 
-password: password
+password: karawang123
 
 
 Tools:
